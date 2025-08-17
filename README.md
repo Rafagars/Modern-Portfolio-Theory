@@ -15,6 +15,9 @@ Este repositorio reúne dos proyectos académicos de **Matemáticas Financieras 
   - Trazado de la **Línea de Mercado de Valores (SML)**.
   - Cálculo de **Alfas de Jensen** para evaluar la validez del modelo.
 
+  <img width="990" height="612" alt="image" src="https://github.com/user-attachments/assets/af37d924-7061-495f-99bb-d0605ae8cd77" />
+
+
 ### 🔹 Proyecto II – Portafolios Óptimos y Funciones de Utilidad
 - Definición de tres perfiles de inversores:
   - **Cuadrático (A=6)**: Alta aversión al riesgo.
@@ -25,6 +28,9 @@ Este repositorio reúne dos proyectos académicos de **Matemáticas Financieras 
 - Gráficos de la **composición de portafolios** para cada perfil.
 - Análisis de **sensibilidad** a la aversión al riesgo.
 - Trazado de **curvas de indiferencia** para cada función de utilidad.
+
+<img width="990" height="590" alt="image" src="https://github.com/user-attachments/assets/ade68794-0434-4a53-9c44-5959030ca0d8" />
+
 
 ---
 
